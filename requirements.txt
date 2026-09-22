@@ -1,0 +1,4 @@
+# Notebook dependencies. SDK contract checked 2026-09-15.
+# Install into the workshop .venv, never a shared system environment.
+google-genai==2.23.0
+ipykernel==7.3.0
